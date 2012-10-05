@@ -1,0 +1,44 @@
+# Environment
+
+## Mac
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+.TemporaryItems
+
+## Windows
+Thumbs.db 
+Desktop.ini
+
+## Vim
+.*.sw[a-z]
+*.un~
+Session.vim
+
+## SublimeText
+/*.sublime-project
+
+## Textmate
+*.tmproj
+*.tmproject
+tmtags
+
+## Komodo
+*.komodoproject
+*.komodotools
+*.kpf
+*.templatec
+
+#PyCharm
+.idea
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
