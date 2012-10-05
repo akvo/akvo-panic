@@ -1,2 +1,1 @@
-akvo-panic
-==========
+For those rare occasions.
